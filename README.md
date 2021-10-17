@@ -1,0 +1,1 @@
+Experimental project building a custom Single Page Application to learn more about how they work behind the scenes.
